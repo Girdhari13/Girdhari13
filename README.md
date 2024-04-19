@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bigger projects
 - 📫 How to reach me
 - 😄 Pronouns:GK
-- ⚡ Fun fact: we all im same page.
+- ⚡ Fun fact: we all in same page.
 
 <!---
 Girdhari13/Girdhari13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
