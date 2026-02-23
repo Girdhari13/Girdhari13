@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Girdhari13
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on bigger projects
-- 📫 How to reach me
 - 😄 Pronouns:GK
 - ⚡ Fun fact: we all in same page.
 
